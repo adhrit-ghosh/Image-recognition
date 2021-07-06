@@ -1,0 +1,21 @@
+body{
+  background-color: rgba(216, 72, 180, 0.705);  
+  color: rgba(33, 46, 221, 0.801);
+}
+.heading{
+font-size: 20px;
+width:80%;
+}
+.nameofobjects{
+    color:floralwhite;
+    font-size:15px;
+}
+#camera{
+    width:350px;
+    height:300px;
+    border:2px dashed blue
+}
+span{
+    font-size:15px;
+    color:cornflowerblue;
+}
